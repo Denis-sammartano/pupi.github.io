@@ -12,27 +12,6 @@
    └─ FUNZIONA SENZA INTERNET!
 
 
-🚀 COME USARE:
-─────────────────────────────────────────────────────────────
-
-1. DOPPIO CLICK su "citazioni-damore.html"
-   → Si apre nel browser!
-
-
-🎵 PER LA MUSICA (2 METODI):
-─────────────────────────────────────────────────────────────
-
-METODO 1 - File nella cartella (automatico):
-  1. Rinomina il tuo file MP3 in: im-god-slowed-reverb.mp3
-  2. Mettilo nella STESSA cartella di citazioni-damore.html
-  3. Ricarica la pagina (F5)
-  4. Clicca il pulsante play
-
-METODO 2 - Seleziona manualmente:
-  1. Clicca il pulsante play in basso a destra
-  2. Si apre una finestra - seleziona il tuo file MP3
-  3. La musica parte automaticamente!
-
 
 ✨ FUNZIONALITÀ:
 ─────────────────────────────────────────────────────────────
